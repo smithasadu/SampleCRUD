@@ -17,5 +17,7 @@ Mysql 8
 	php artisan cache:clear
 	php artisan config:clear
 8. run php artisan storage:link(to fix image storage issues)
-9 start webserver.
+9. start webserver.
+
+Postman documentation for the APIs : https://documenter.getpostman.com/view/18921394/2s9YsT57mb
 
